@@ -37,7 +37,7 @@ Okay so once inside the admin panel of os ticket, I navigated to the "Admin" sec
 ![image](https://github.com/mkpene/ticket-lifecycle/assets/142267681/a5d331e0-d936-4a35-8b2a-cb17b02b3137)
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now, I logged out of the admin account and logged in as the employee who had been assigned to "online mobile banking is down." This gave me the perspective of someone working on the support side. Inside the employee dashboard, I could see the tickets assigned to me. The "online mobile banking is down" ticket was there, waiting for my attention. I clicked on it to view the user's description of the problem. I formulated a response explaining how the user could resolve the issue. After composing the response, I clicked "Send" to notify the user about the steps they could take. The ticket status changed to "Awaiting User's Response." 
 </p>
 <br />
 
