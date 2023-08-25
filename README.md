@@ -29,7 +29,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![image](https://github.com/mkpene/ticket-lifecycle/assets/142267681/85a62b71-c078-4b41-885e-e57ec560bd26)
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Okay so once inside the admin panel of os ticket, I navigated to the "Admin" section. Under "Agents," I clicked on "Add New Agent" to create an admin user. I filled in the details like name, email, and password. Since this was an admin user, I made sure to assign them appropriate privileges for managing the system. Next, I decided to add an employee user who would handle support requests. Again, under "Agents," I clicked on "Add New Agent" and provided the necessary information. I assigned them the role of an employee, enabling them to address support tickets.
 </p>
 <br />
 
