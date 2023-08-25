@@ -45,6 +45,6 @@ Now, I logged out of the admin account and logged in as the employee who had bee
 ![image](https://github.com/mkpene/ticket-lifecycle/assets/142267681/2e852171-0542-4fa6-8f59-e5a8d9b95875)
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As I resolved each issue, I marked the tickets as "Resolved." I added internal notes summarizing the actions taken and any further steps required. This exercise gave a practical understanding of how osTicket streamlines the support process. From creating mock tickets to working on them as an employee, I gained insights into how customer inquiries are addressed efficiently using the platform. 
 </p>
 <br />
